@@ -1,0 +1,6 @@
+x (A) 2015-06-06 Get some coffie +survival
+x (A) 2015-06-06 Create a simple install script +kate-todo
+(B) 2015-06-06 Write documentation +kate-todo @documentation
+x (B) 2015-06-06 Take a screenshot +kate-todo @documentation
+(B) 2015-06-06 push kate-todo to github +kate-todo @marketing @github
+(C) 2015-06-06 Write a blogpost +kate-todo @marketing
