@@ -23,7 +23,7 @@ Tags start with @. This is a @tag, and are hightlighted as red.
 ### More info
 
 #### Fileformat
-https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format
+[todo.txt](https://github.com/todotxt/todo.txt)
 
 ## Screenshot
 ![A Screenshot](/screenshot/screenshot.png?raw=true "Screenshot")
